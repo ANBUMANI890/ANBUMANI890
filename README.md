@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANBUMANI890
+- 👋 Hi, I’m ANBUMANI
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on development projects
