@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ANBUMANI
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently working in MERN stack
 - 💞️ I’m looking to collaborate on development projects
 - 📫 Ask me anything about Full Stack Development in mail2anbumanir@gmail.com
 
